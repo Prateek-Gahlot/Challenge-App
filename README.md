@@ -4,7 +4,7 @@ The Challenge App is a Flutter-based mobile application that encourages users to
 
 <img width="250" alt="home" src="https://github.com/Prateek-Gahlot/Challenge-App/assets/141181732/1aa4acde-cd3d-417b-9754-4c64fd4b2884">
 
-<img width="245" alt="main" src="https://github.com/Prateek-Gahlot/Challenge-App/assets/141181732/2c34b6d5-7d9b-4de8-916f-eed0213a3f38">
+<img width="250" alt="main" src="https://github.com/Prateek-Gahlot/Challenge-App/assets/141181732/2c34b6d5-7d9b-4de8-916f-eed0213a3f38">
 
 
 
